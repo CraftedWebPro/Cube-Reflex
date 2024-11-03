@@ -38,7 +38,7 @@ The game is created by **Vivek Tamang** under the alias **CraftedWebPro**. It sh
 To play **Cube Reflex**, simply clone or download the repository and open it in Unity. Make sure you have the necessary Unity version installed.
 
 ### Prerequisites
-- Unity (version x.x or higher)
+- Unity (version 2022.3 or higher)
 - Basic understanding of Unity interface and C#
 
 ### Installation
