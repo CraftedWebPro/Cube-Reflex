@@ -23,7 +23,7 @@ The project is organized into the following folders:
    - **Exit**: Click this button to close the game.
 
 2. **Controls**:
-   - Use the **left** and **right arrow keys** or **A** and **D** keys to move the cube.
+   - Use the **left** and **right arrow keys** or **A** and **D** keys to move the cube and **Space** to **Jump**.
    - Press **R** to restart the game at any time.
 
 ## Screenshots and GIFs
