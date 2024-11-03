@@ -26,4 +26,5 @@ The project is organized into the following folders:
    - Use the **left** and **right arrow keys** or **A** and **D** keys to move the cube.
    - Press **R** to restart the game at any time.
 
-![Game Menu Screenshot](Screenshot.png)
+```markdown
+![Game Menu Screenshot]Images/Screenshot.png)
