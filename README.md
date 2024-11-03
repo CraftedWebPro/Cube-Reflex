@@ -26,5 +26,22 @@ The project is organized into the following folders:
    - Use the **left** and **right arrow keys** or **A** and **D** keys to move the cube.
    - Press **R** to restart the game at any time.
 
-```markdown
-![Game Menu Screenshot]Images/Screenshot.png)
+## Screenshots and GIFs
+To visualize gameplay, here’s a screenshot from the game:
+
+![Game Menu Screenshot](Images/Screenshot.png)
+
+## Development
+The game is created by **Vivek Tamang** under the alias **CraftedWebPro**. It showcases the use of C# scripting in Unity to create engaging game mechanics and obstacle dynamics.
+
+## Getting Started
+To play **Cube Reflex**, simply clone or download the repository and open it in Unity. Make sure you have the necessary Unity version installed.
+
+### Prerequisites
+- Unity (version x.x or higher)
+- Basic understanding of Unity interface and C#
+
+### Installation
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/CraftedWebPro/Cube-Reflex.git
